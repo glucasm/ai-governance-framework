@@ -27,3 +27,18 @@ Framework de referencia para el gobierno de Inteligencia Artificial en instituci
 - ISO 23894
 - SR 11-7
 - DAMA-DMBOK
+
+
+
+## AI Governance Landscape
+
+```mermaid
+graph TD
+A[AI Governance]
+
+A --> B[Policies]
+A --> C[Standards]
+A --> D[Controls]
+A --> E[Risk Assessment]
+A --> F[Model Inventory]
+A --> G[Monitoring]
